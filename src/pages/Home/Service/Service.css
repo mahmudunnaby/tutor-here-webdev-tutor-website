@@ -1,0 +1,10 @@
+.picture {
+    height: 300px;
+    width: 285px;
+    padding: 10px;
+}
+
+.effects:hover {
+    border-radius: 50px;
+    border-color: aquamarine;
+}

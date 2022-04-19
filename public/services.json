@@ -1,0 +1,66 @@
+[
+    {
+        "index": 0,
+        "balance": "$10",
+        "picture": "https://i.ibb.co/8PwKRZw/HTML.png",
+        "subject": "HTML",
+        "name": "Mahmudun Naby",
+        "about": "HTML is the standard markup language for documents designed to be displayed in a web browser. \r\n"
+    },
+    {
+        "index": 1,
+        "balance": "$15",
+        "picture": "https://i.ibb.co/cNdJbnM/css.png",
+        "subject": "CSS",
+        "name": "Mahmudun Naby",
+        "about": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.\r\n"
+    },
+    {
+        "index": 2,
+        "balance": "$15",
+        "picture": "https://i.ibb.co/s6y9sj8/Bootstrap.png",
+        "subject": "Bootstrap",
+        "name": "Mahmudun Naby",
+        "about": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. \r\n"
+    },
+    {
+        "index": 3,
+        "balance": "$20",
+        "picture": "https://i.ibb.co/VtBGrgj/tailwind.png",
+        "subject": "Tailwind",
+        "name": "Mahmudun Naby",
+        "about": "Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item being styled, Tailwind is centered around how it should be displayed. \r\n"
+    },
+    {
+        "index": 4,
+        "balance": "$50",
+        "picture": "https://i.ibb.co/N698H32/JS.png",
+        "subject": "Javascript",
+        "name": "Mahmudun Naby",
+        "about": "JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. \r\n"
+    },
+    {
+        "index": 5,
+        "balance": "$100",
+        "picture": "https://i.ibb.co/p2RdBkX/react.png",
+        "subject": "React",
+        "name": "Mahmudun Naby",
+        "about": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.\r\n"
+    },
+    {
+        "index": 6,
+        "balance": "$70",
+        "picture": "https://i.ibb.co/87bwYzY/react-router.png",
+        "subject": "React Router",
+        "name": "Mahmudun Naby",
+        "about": "React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL.\r\n"
+    },
+    {
+        "index": 7,
+        "balance": "$50",
+        "picture": "https://i.ibb.co/chrd0ts/firebase.png",
+        "subject": "Firebase",
+        "name": "Mahmudun Naby",
+        "about": "Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. \r\n"
+    }
+]
