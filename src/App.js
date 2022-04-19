@@ -7,7 +7,8 @@ import Footer from './pages/Shared/Footer/Footer';
 import Header from './pages/Shared/Header/Header';
 import Doc from './pages/Document/Doc'
 import Notfound from './pages/Shared/Notfound/Notfound'
-import Login from './pages/Login/login'
+import Login from './pages/Login/Login'
+import Register from './pages/Login/Register'
 
 
 function App() {
@@ -23,8 +24,10 @@ function App() {
         <Route path='/document' element={<Doc></Doc>}></Route>
         <Route path='/service/:checkout' element={<Checkout></Checkout>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
+        <Route path='/register' element={<Register></Register>}></Route>
         <Route path='/*' element={<Notfound></Notfound>}></Route>
       </Routes>
+
       <Footer></Footer>
     </div>
   );
