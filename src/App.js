@@ -11,6 +11,7 @@ import Login from './pages/Login/Login'
 import Register from './pages/Login/Register'
 import ServiceDetails from './pages/ServiceDetails/ServiceDetails';
 import RequireAuth from './pages/Login/RequireAuth/RequireAuth';
+import Reasons from './pages/Home/Reasons/Reasons';
 
 
 function App() {
@@ -27,6 +28,8 @@ function App() {
         <Route path='/service/:serviceId' element={<ServiceDetails></ServiceDetails>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>
+        <Route path='/reasons' element={<Reasons></Reasons>}></Route>
+
         <Route path='/checkout' element={
           <RequireAuth>
             <Checkout></Checkout>
