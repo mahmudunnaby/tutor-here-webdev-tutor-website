@@ -3,6 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import teacher1 from '../../../images/teacher1.png'
 import teacher2 from '../../../images/teacher2.png'
 import teacher3 from '../../../images/teacher3.png'
+import style from './Slider.css'
 
 const Slider = () => {
 
@@ -21,9 +22,9 @@ const Slider = () => {
                     src={teacher1}
                     alt="First slide"
                 />
-                <Carousel.Caption>
-                    <h1>First slide label</h1>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                <Carousel.Caption >
+                    <h1 >HIRE ME</h1>
+                    <p>Learn Web Development from the best tutor!</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -33,9 +34,9 @@ const Slider = () => {
                     alt="Second slide"
                 />
 
-                <Carousel.Caption>
-                    <h3>Second slide label</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <Carousel.Caption >
+                    <h3 >UNLISH YOUR CREATIVATY</h3>
+                    <p>Make your imagination come true</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -46,8 +47,8 @@ const Slider = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Third slide label</h3>
-                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    <h3 >GET ENROLED NOW!</h3>
+                    <p>Get yourself booked for the next batch</p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
